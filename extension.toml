@@ -1,0 +1,7 @@
+id = "lukablush"
+name = "Lukablush"
+version = "1.0.0"
+schema_version = 1
+authors = ["Luka Cerrutti <lukacerrutti2002@gmail.com>"]
+description = "Slightly modified Everblush colorscheme to feed my love for neutral backgrounds."
+repository = "https://github.com/lukacerr/Lukablush"
