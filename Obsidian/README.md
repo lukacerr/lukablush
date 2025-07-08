@@ -37,6 +37,8 @@ TODO c:
 1. In the settings sidebar, go to the "Style Settings" community plugin section
 2. In the far top-right of the modal, press _import_
 3. In the text area, paste the content of the [lukablush.json](./lukablush.json) file in this repo
+  - You may as well try other variation. Check the existing _.json_ files here c:
+  - I personally use the [lukablush-darker.json](./lukablush-darker.json) variation
 4. Save and close the modal :)
 
 ![Installation tutorial](./installation.png "How-to install")
