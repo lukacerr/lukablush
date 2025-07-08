@@ -39,7 +39,7 @@ TODO c:
 3. In the text area, paste the content of the [lukablush.json](./lukablush.json) file in this repo
 4. Save and close the modal :)
 
-![Installation tutorial](../Ass/installation.png "How-to install")
+![Installation tutorial](./installation.png "How-to install")
 
 _Alternatively, download the [lukablush.json](./lukablush.json) file and select it with "import from file"._
 
