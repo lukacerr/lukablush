@@ -19,11 +19,11 @@ Slightly modified [Everblush](https://github.com/Everblush) colorscheme to feed 
 | ![`#e57474`](./assets/c-e57474.png "#e57474") | Coral Red        | `#e57474`  | `rgb(229,116,116)` | ✔️                                                        |
 | ![`#c47fd5`](./assets/c-c47fd5.png "#c47fd5") | Vivid Lilac      | `#c47fd5`  | `rgb(196,127,213)` | ✔️                                                        |
 
-### 🧠 Philosophy
+### 🖥️ Screenshots
 
 TODO c:
 
-#### 🖥️ Screenshots
+#### 🧠 Philosophy
 
 TODO c:
 
