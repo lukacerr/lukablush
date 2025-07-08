@@ -4,104 +4,26 @@ Slightly modified [Everblush](https://github.com/Everblush) colorscheme to feed 
 
 ## The color selection
 
-<table align="center">
-    <tr>
-        <th><b>Preview</b></th>
-        <th><b>Name</b></th>
-        <th><b>Hex</b></th>
-        <th><b>RGB</b></th>
-        <th><b>Original from Everblush?</b></th>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#1c1c1c; border-radius:1em;"/></td>
-        <td><code>Near Black</code></td>
-        <td><code>#1c1c1c</code></td>
-        <td><code>rgb(28, 28, 28)</code></td>
-        <td><input type="checkbox" /> Replaces <code>#141b1e</code></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#232323; border-radius:1em;"/></td>
-        <td><code>Soft Black</code></td>
-        <td><code>#232323</code></td>
-        <td><code>rgb(35, 35, 35)</code></td>
-        <td><input type="checkbox" /> Replaces <code>#232a2d</code></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#8a8a8a; border-radius:1em;"/></td>
-        <td><code>Medium Gray</code></td>
-        <td><code>#8a8a8a</code></td>
-        <td><code>rgb(138, 138, 138)</code></td>
-        <td><input type="checkbox" /> Added for readability</td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#b6b7b7; border-radius:1em;"/></td>
-        <td><code>Light Gray</code></td>
-        <td><code>#b6b7b7</code></td>
-        <td><code>rgb(179, 185, 184)</code></td>
-        <td><input type="checkbox" /> Replaces <code>#b3b9b8</code></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#dadada; border-radius:1em;"/></td>
-        <td><code>Foreground White</code></td>
-        <td><code>#dadada</code></td>
-        <td><code>rgb(218, 218, 218)</code></td>
-        <td><input type="checkbox" checked /></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#6cbfbf; border-radius:1em;"/></td>
-        <td><code>Pastel Cyan</code></td>
-        <td><code>#6cbfbf</code></td>
-        <td><code>rgb(108, 191, 191)</code></td>
-        <td><input type="checkbox" checked /></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#67b0e8; border-radius:1em;"/></td>
-        <td><code>Sky Blue</code></td>
-        <td><code>#67b0e8</code></td>
-        <td><code>rgb(103, 176, 232)</code></td>
-        <td><input type="checkbox" checked /></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#8ccf7e; border-radius:1em;"/></td>
-        <td><code>Light Green</code></td>
-        <td><code>#8ccf7e</code></td>
-        <td><code>rgb(140, 207, 126)</code></td>
-        <td><input type="checkbox" checked /></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#e5c76b; border-radius:1em;"/></td>
-        <td><code>Soft Yellow</code></td>
-        <td><code>#e5c76b</code></td>
-        <td><code>rgb(229, 199, 107)</code></td>
-        <td><input type="checkbox" checked /></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#f4a261; border-radius:1em;"/></td>
-        <td><code>Soft Orange</code></td>
-        <td><code>#f4a261</code></td>
-        <td><code>rgb(244, 162, 97)</code></td>
-        <td><input type="checkbox" /> Added for readability</td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#e57474; border-radius:1em;"/></td>
-        <td><code>Coral Red</code></td>
-        <td><code>#e57474</code></td>
-        <td><code>rgb(229, 116, 116)</code></td>
-        <td><input type="checkbox" checked /></td>
-    </tr>
-    <tr>
-        <td><svg style="background-color:#c47fd5; border-radius:1em;"/></td>
-        <td><code>Vivid Lilac</code></td>
-        <td><code>#c47fd5</code></td>
-        <td><code>rgb(196, 127, 213)</code></td>
-        <td><input type="checkbox" checked /></td>
-    </tr>
-</table>
+| Preview                                      | Name             | Hex        | RGB                | Original from [Everblush](https://github.com/Everblush)? |
+|:--------------------------------------------:|:----------------:|:----------:|:------------------:|:--------------------------------------------------------:|
+| ![`#1c1c1c`](./assets/#1c1c1c.png "#1c1c1c") | Near Black       | `#1c1c1c`  | `rgb(28,28,28)`    | Replaces `#141b1e`                                       |
+| ![`#232323`](./assets/#232323.png "#232323") | Soft Black       | `#232323`  | `rgb(35,35,35)`    | Replaces `#232a2d`                                       |
+| ![`#8a8a8a`](./assets/#8a8a8a.png "#8a8a8a") | Medium Gray      | `#8a8a8a`  | `rgb(138,138,138)` | Added for readability                                    |
+| ![`#b6b7b7`](./assets/#b6b7b7.png "#b6b7b7") | Light Gray       | `#b6b7b7`  | `rgb(182,183,183)` | Replaces `#b3b9b8`                                       |
+| ![`#dadada`](./assets/#dadada.png "#dadada") | Foreground White | `#dadada`  | `rgb(218,218,218)` | ✔️                                                        |
+| ![`#6cbfbf`](./assets/#6cbfbf.png "#6cbfbf") | Pastel Cyan      | `#6cbfbf`  | `rgb(108,191,191)` | ✔️                                                        |
+| ![`#67b0e8`](./assets/#67b0e8.png "#67b0e8") | Sky Blue         | `#67b0e8`  | `rgb(103,176,232)` | ✔️                                                        |
+| ![`#8ccf7e`](./assets/#8ccf7e.png "#8ccf7e") | Light Green      | `#8ccf7e`  | `rgb(140,207,126)` | ✔️                                                        |
+| ![`#e5c76b`](./assets/#e5c76b.png "#e5c76b") | Soft Yellow      | `#e5c76b`  | `rgb(229,199,107)` | ✔️                                                        |
+| ![`#f4a261`](./assets/#f4a261.png "#f4a261") | Soft Orange      | `#f4a261`  | `rgb(244,162,97)`  | Added for readability                                    |
+| ![`#e57474`](./assets/#e57474.png "#e57474") | Coral Red        | `#e57474`  | `rgb(229,116,116)` | ✔️                                                        |
+| ![`#c47fd5`](./assets/#c47fd5.png "#c47fd5") | Vivid Lilac      | `#c47fd5`  | `rgb(196,127,213)` | ✔️                                                        |
 
 ### Philosophy
 
+#### Screenshots
 
-#### Manual installation
+##### Manual installation
 
 1. Download as a ZIP
 2. Unzip the file
