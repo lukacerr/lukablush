@@ -1,8 +1,8 @@
-# 😳 Lukablush theme for Zed
+# 😳 Lukablush
 
-Slightly modified [Everblush](https://github.com/Everblush) colorscheme to feed my love for neutral backgrounds and borderless UI, all ported as a [Zed](https://zed.dev) (community) theme.
+Slightly modified [Everblush](https://github.com/Everblush) colorscheme to feed my love for neutral backgrounds and high-contrast borderless UI.
 
-## 🎨 The color selection
+## 🎨 The Color Selection
 
 | Preview                                       | Name             | Hex        | RGB                | Original from [Everblush](https://github.com/Everblush)? |
 |:---------------------------------------------:|:----------------:|:----------:|:------------------:|:--------------------------------------------------------:|
@@ -19,7 +19,7 @@ Slightly modified [Everblush](https://github.com/Everblush) colorscheme to feed 
 | ![`#e57474`](./assets/c-e57474.png "#e57474") | Coral Red        | `#e57474`  | `rgb(229,116,116)` | ✔️                                                        |
 | ![`#c47fd5`](./assets/c-c47fd5.png "#c47fd5") | Vivid Lilac      | `#c47fd5`  | `rgb(196,127,213)` | ✔️                                                        |
 
-### 🖥️ Screenshots
+### 🖥️ Showroom
 
 TODO c:
 
@@ -27,11 +27,6 @@ TODO c:
 
 TODO c:
 
-##### 🔧 Manual installation
+##### 🔧 Software
 
-1. Download as a ZIP
-2. Unzip the file
-3. In Zed, go to Extensions
-4. "Install Dev Extension"
-5. Select the unzipped folder containing this README
-6. Enjoy c:
+See the folders in this repository to get ready-made themes with the Lukablush palette.
