@@ -1,0 +1,61 @@
+# Lukablush for Superfile
+
+# ========= Border =========
+file_panel_border = "#8a8a8a"
+sidebar_border = "#232323"
+footer_border = "#8a8a8a"
+
+# ========= Border Active =========
+file_panel_border_active = "#c47fd5"
+sidebar_border_active = "#e57474"
+footer_border_active = "#8ccf7e"
+modal_border_active = "#8a8a8a"
+
+# ========= Background (bg) =========
+full_screen_bg = "#232323"
+file_panel_bg = "#232323"
+sidebar_bg = "#232323"
+footer_bg = "#232323"
+modal_bg = "#232323"
+
+# ========= Foreground (fg) =========
+full_screen_fg = "#dadada"
+file_panel_fg = "#dadada"
+sidebar_fg = "#dadada"
+footer_fg = "#dadada"
+modal_fg = "#dadada"
+
+# ========= Special Color =========
+cursor = "#e5c76b"
+correct = "#8ccf7e"
+error = "#e57474"
+hint = "#67b0e8"
+cancel = "#c47fd5"
+gradient_color = ["#67b0e8", "#c47fd5"]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "#8ccf7e"
+file_panel_top_path = "#67b0e8"
+file_panel_item_selected_fg = "#67b0e8"
+file_panel_item_selected_bg = "#232323"
+
+# ========= Sidebar Special Items =========
+sidebar_title = "#67b0e8"
+sidebar_item_selected_fg = "#67b0e8"
+sidebar_item_selected_bg = "#232323"
+sidebar_divider = "#8a8a8a"
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "#232323"
+modal_cancel_bg = "#c47fd5"
+
+modal_confirm_fg = "#232323"
+modal_confirm_bg = "#8ccf7e"
+
+# ========= Help Menu =========
+help_menu_hotkey = "#67b0e8"
+help_menu_title = "#c47fd5"
+
+# ========= Code highlighting =========
+# Limited to https://github.com/alecthomas/chroma/blob/master/styles
+code_syntax_highlight = "catppuccin-mocha"
