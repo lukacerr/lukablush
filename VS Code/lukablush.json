@@ -318,7 +318,13 @@
 			{
 				"scope": "storage.type",
 				"settings": {
-					"foreground": "#f4a261"
+					"foreground": "#e5c76b"
+				}
+			},
+			{
+				"scope": "storage.type.function",
+				"settings": {
+					"foreground": "#c47fd5"
 				}
 			},
 			{
@@ -377,20 +383,29 @@
 				}
 			},
 			{
+				"scope": "keyword.control",
+				"settings": {
+					"foreground": "#c47fd5"
+				}
+			},
+			{
 				"scope": "keyword.control.import",
 				"settings": {
+					"foreground": "#c47fd5",
 					"fontStyle": "bold"
 				}
 			},
 			{
 				"scope": "keyword.control.flow",
 				"settings": {
+					"foreground": "#c47fd5",
 					"fontStyle": "bold"
 				}
 			},
 			{
 				"scope": "keyword.control.return",
 				"settings": {
+					"foreground": "#c47fd5",
 					"fontStyle": "bold"
 				}
 			},
